@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2c2420"/>
+      <stop offset="1" stop-color="#141110"/>
+    </linearGradient>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M0 40L40 0" stroke="#ffffff" stroke-opacity="0.06" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#p)"/>
+  <g fill="#ffffff" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="302.5" font-size="45" font-weight="700" opacity="0.92">KUKA Home Việt Nam</text>
+    <text x="600" y="346" font-size="25" opacity="0.75">Nội thất cao cấp - Không gian xứng tầm</text>
+  </g>
+</svg>
